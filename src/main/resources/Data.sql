@@ -1,0 +1,1 @@
+insert into sortedobj values (20,20,33,4,5,5);insert into sortedobj values (21,21,33,4,5,5);
